@@ -34,7 +34,7 @@ Using this module:
 
 Installing the module
 
-    npm install uuid-enccoded
+    npm install uuid-encoded
 
 ## Note
 
