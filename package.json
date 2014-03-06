@@ -1,0 +1,44 @@
+{
+  "name": "uuid-encoded",
+  "description": "Generates strong UUIDs - like uuid module - but encodes to compress length with url-friendly 64-char alphabet"
+  "homepage": "https://github.com/ogt/uuid-encoded",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ogt/uuid-encoded.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js",
+  },
+  "license": "MIT",
+  "dependencies": {
+    "glutils": "~0.2.0",
+    "uuid": "~1.4.1",
+    "d64": "~1.0.0"
+  },
+  "devDependencies": {
+    "mongojs": "~0.10.0",
+    "tap": "~0.4.8",
+    "glutils": "~0.2.0"
+  },
+  "keywords": [
+    "uuid",
+    "unique",
+    "crypto",
+    "cryptographic",
+    "unguessable",
+    "urlencoced",
+    "encoded",
+    "base64",
+    "random",
+    "RFC4122",
+    "guid",
+    "d64"
+  ],
+  "author": {
+    "name": "Odysseas Tsatalos",
+    "email": "odysseas@tsatalos.com",
+    "url": "http://tsatalos.gr"
+  }
+}
