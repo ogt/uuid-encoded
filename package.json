@@ -2,7 +2,7 @@
   "name": "uuid-encoded",
   "description": "Generates strong UUIDs - like uuid module - but encodes to compress length with url-friendly 64-char alphabet",
   "homepage": "https://github.com/ogt/uuid-encoded",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/ogt/uuid-encoded.git"
